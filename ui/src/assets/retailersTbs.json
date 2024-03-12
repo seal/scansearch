@@ -1,0 +1,297 @@
+{
+  "type": "Retailers",
+  "options": [
+    {
+      "text": "vitkac",
+      "tbs": "mr:1,merchagg:g128010257|m196226911"
+    },
+    {
+      "text": "Antonia",
+      "tbs": "mr:1,merchagg:g105539729|m7984436"
+    },
+    {
+      "text": "Aphrodite",
+      "tbs": "mr:1,merchagg:m2900079"
+    },
+    {
+      "text": "Artifacts Apparel",
+      "tbs": "mr:1,merchagg:m240278032"
+    },
+    {
+      "text": "BSTN Store",
+      "tbs": "mr:1,merchagg:m342991896"
+    },
+    {
+      "text": "castore.com",
+      "tbs": "mr:1,merchagg:g575157995|m244044348"
+    },
+    {
+      "text": "Brown Thomas",
+      "tbs": "mr:1,merchagg:g116028276|m114859302"
+    },
+    {
+      "text": "Choice",
+      "tbs": "mr:1,merchagg:m105589238"
+    },
+    {
+      "text": "Cruise Fashion",
+      "tbs": "mr:1,merchagg:m10537594"
+    },
+    {
+      "text": "Copperfield",
+      "tbs": "mr:1,merchagg:m507495034"
+    },
+    {
+      "text": "Eqvvs",
+      "tbs": "mr:1,merchagg:m118484740"
+    },
+    {
+      "text": "END. Clothing",
+      "tbs": "mr:1,merchagg:g832709|m8181249"
+    },
+    {
+      "text": "farfetch.com",
+      "tbs": "mr:1,merchagg:g115366152|m3538228"
+    },
+    {
+      "text": "Flannels",
+      "tbs": "mr:1,merchagg:m9513270"
+    },
+    {
+      "text": "Giglio.com",
+      "tbs": "mr:1,merchagg:g476947878|m8133200"
+    },
+    {
+      "text": "Giulio",
+      "tbs": "mr:1,merchagg:m117522077"
+    },
+    {
+      "text": "Goodhood",
+      "tbs": "mr:1,merchagg:m6764741"
+    },
+    {
+      "text": "Harrods",
+      "tbs": "mr:1,merchagg:m5586996"
+    },
+    {
+      "text": "Harvey Nichols",
+      "tbs": "mr:1,merchagg:m10007388"
+    },
+    {
+      "text": "John Anthony",
+      "tbs": "mr:1,merchagg:g124080078|m6517591"
+    },
+    {
+      "text": "Julia Fashion",
+      "tbs": "mr:1,merchagg:g7845416|m105642105"
+    },
+    {
+      "text": "LN-CC",
+      "tbs": "mr:1,merchagg:g123903187|m137409231"
+    },
+    {
+      "text": "LUISAVIAROMA.COM",
+      "tbs": "mr:1,merchagg:g248761940|m7744888"
+    },
+    {
+      "text": "Liberty",
+      "tbs": "mr:1,merchagg:m102152561"
+    },
+    {
+      "text": "MR PORTER",
+      "tbs": "mr:1,merchagg:g5599992|m128927163"
+    },
+    {
+      "text": "Manifesto Women",
+      "tbs": "mr:1,merchagg:m119638411"
+    },
+    {
+      "text": "MatchesFashion",
+      "tbs": "mr:1,merchagg:g131389277|m123315826"
+    },
+    {
+      "text": "Mytheresa United Kingdom",
+      "tbs": "mr:1,merchagg:g8582479|m242050922"
+    },
+    {
+      "text": "Oi Polloi",
+      "tbs": "mr:1,merchagg:m185601937"
+    },
+    {
+      "text": "Peggs & Son",
+      "tbs": "mr:1,merchagg:g610896803|m102971009"
+    },
+    {
+      "text": "Philip Browne Menswear",
+      "tbs": "mr:1,merchagg:m7374845"
+    },
+    {
+      "text": "Profile Fashion",
+      "tbs": "mr:1,merchagg:g116881232|m507761129"
+    },
+    {
+      "text": "Repertoire",
+      "tbs": "mr:1,merchagg:g6673638|m6753758|m8139848"
+    },
+    {
+      "text": "Roulette Clothing",
+      "tbs": "mr:1,merchagg:m7158606"
+    },
+    {
+      "text": "ssense.com",
+      "tbs": "mr:1,merchagg:g107860244|m107860316"
+    },
+    {
+      "text": "STOY",
+      "tbs": "mr:1,merchagg:g101986566|m102037382"
+    },
+    {
+      "text": "Selfridges",
+      "tbs": "mr:1,merchagg:g114555193|m9529673"
+    },
+    {
+      "text": "Slam City Skates UK",
+      "tbs": "mr:1,merchagg:g126419691|m1389830"
+    },
+    {
+      "text": "Slam Jam",
+      "tbs": "mr:1,merchagg:m17034521"
+    },
+    {
+      "text": "Tessuti",
+      "tbs": "mr:1,merchagg:m3192127"
+    },
+    {
+      "text": "The Business Fashion",
+      "tbs": "mr:1,merchagg:m260821650"
+    },
+    {
+      "text": "TheCorner.com",
+      "tbs": "mr:1,merchagg:m136158461"
+    },
+    {
+      "text": "Unique 1989",
+      "tbs": "mr:1,merchagg:g11648674|m113532730|m109978334"
+    },
+    {
+      "text": "Wellgosh",
+      "tbs": "mr:1,merchagg:g9412767|m6949562"
+    },
+    {
+      "text": "Wrong Weather",
+      "tbs": "mr:1,merchagg:g109448756|m101167286"
+    },
+    {
+      "text": "YOOX",
+      "tbs": "mr:1,merchagg:g113939203|m114562644"
+    },
+    {
+      "text": "zoofashions.com",
+      "tbs": "mr:1,merchagg:g118490211|m12212841"
+    },
+    {
+      "text": "Zee & Co",
+      "tbs": "mr:1,merchagg:m4875815"
+    },
+    {
+      "text": "Ikrix",
+      "tbs": "mr:1,merchagg:m101548827"
+    },
+    {
+      "text": "Xile Clothing",
+      "tbs": "mr:1,merchagg:g11648674|m109978334"
+    },
+    {
+      "text": "Slam Jam",
+      "tbs": "mr:1,merchagg:m17034521"
+    },
+    {
+      "text": "Diffusion Online",
+      "tbs": "mr:1,merchagg:g6673638|m8491088"
+    },
+    {
+      "text": "JulesB",
+      "tbs": "mr:1,merchagg:g123908308|m124001548"
+    },
+    {
+      "text": "Woodhouse Clothing",
+      "tbs": "mr:1,merchagg:m6724181"
+    },
+    {
+      "text": "Brown Bag Clothing",
+      "tbs": "mr:1,merchagg:m6604411"
+    },
+    {
+      "text": "MainlineMenswear.com",
+      "tbs": "mr:1,merchagg:m1443651"
+    },
+    {
+      "text": "Sevenstore",
+      "tbs": "mr:1,merchagg:m113482352"
+    },
+    {
+      "text": "Tony Mcdonnel Menswear",
+      "tbs": "mr:1,merchagg:m100491905"
+    },
+    {
+      "text": "Northern Threads",
+      "tbs": "mr:1,merchagg:g6673638|m8139848"
+    },
+    {
+      "text": "Oxygen Clothing",
+      "tbs": "mr:1,merchagg:g137508803|m102114195|m8106431"
+    },
+    {
+      "text": "Scotts Menswear",
+      "tbs": "mr:1,merchagg:m7320423"
+    },
+    {
+      "text": "Artifacts Apparel",
+      "tbs": "mr:1,merchagg:m240278032"
+    },
+    {
+      "text": "Maisondefashion",
+      "tbs": "mr:1,merchagg:m125631871"
+    },
+    {
+      "text": "Nigel Clare",
+      "tbs": "mr:1,merchagg:m7889025"
+    },
+    {
+      "text": "The Rainy Days",
+      "tbs": "mr:1,merchagg:m232971781"
+    },
+    {
+      "text": "Jonathan Trumbull & Hatters",
+      "tbs": "mr:1,merchagg:m8175209"
+    },
+    {
+      "text": "Norton Barrie",
+      "tbs": "mr:1,merchagg:g112242823|m9286688"
+    },
+    {
+      "text": "Zalando.co.uk",
+      "tbs": "mr:1,merchagg:m7439947"
+    },
+    {
+      "text": "NET-A-PORTER",
+      "tbs": "mr:1,merchagg:g5599992|m34922"
+    },
+    {
+      "text": "Shopbop",
+      "tbs": "mr:1,merchagg:g10644642|m331432|m10647512"
+    },
+    {
+      "text": "Nike Official",
+      "tbs": "mr:1,merchagg:g131299672|m126509619"
+    },
+    {
+      "text": "Stone Island",
+      "tbs": "mr:1,merchagg:m590583968"
+    },
+    {
+      "text": "C.P. Clothing",
+      "tbs": "mr:1,merchagg:m116037284"
+    }
+  ]
+}
